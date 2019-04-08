@@ -10,6 +10,7 @@ Running the project:
 Open two terminals in the projects location.
 
 In the first terminal, run the following command:
+
 $ python3 server.py
 
 In the second terminal:
